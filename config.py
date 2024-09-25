@@ -19,9 +19,9 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "sujay8371")
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "sujay5372192")     
+DB_NAME = os.environ.get("DB_NAME", "sujay5372")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://sujay5372192:sujay5372192@cluster00001.zivqq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00001")
+DB_URL = os.environ.get("DB_URL", "mongodb://sujay5372:sujay5372@<hostname>/?ssl=true&replicaSet=atlas-12qi3x-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster002")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
